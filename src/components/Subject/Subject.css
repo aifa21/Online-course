@@ -1,0 +1,32 @@
+.subject{
+    display:flex;
+    border-bottom:1px solid lightgray;
+    margin-bottom:5px;
+    margin-top:10px;
+    padding-bottom:5px;
+    margin-left:30px;
+    border:2px solid rgb(247, 188, 188);
+    box-shadow: 5px 5px 5px #fadfdf;
+
+    
+
+}
+.subject img{
+    height:200px;
+}
+.subject-name{
+    color:blue;
+    font-weight: 400;
+    
+}
+.main-button{
+    background-color: yellow;
+    width:150px;
+    height:30px;
+    border:1px solid black;
+    border-radius: 5px;
+    cursor:pointer;
+}
+.subject-info{
+    margin-left:30px;
+}
